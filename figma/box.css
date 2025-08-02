@@ -1,0 +1,25 @@
+.box{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #f2f2f2;
+  padding: 5rem 10%;
+  color: black;
+  text-align: center;
+}
+.box1 h2{
+    font-size: 3.063rem;
+    font-weight: lighter;
+    color: #000;
+    margin-bottom: 0.625rem;
+}
+.box 
+.box p{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.313rem;
+}
+.box small{
+    font-size: 0.938rem;
+    color: #777;
+}

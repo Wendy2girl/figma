@@ -1,0 +1,45 @@
+.middle{
+  background: #0b0f1c;
+  color: white;
+  display: flex;
+} 
+
+.container {
+  max-width: 1000px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.service-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.service {
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.service h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.note {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  text-align: center;
+  opacity: 0.8;
+}
+
